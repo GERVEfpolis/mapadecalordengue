@@ -1,1 +1,2 @@
-https://github.com/GERVEfpolis/mapadecalordengue.git
+git add -- all
+
